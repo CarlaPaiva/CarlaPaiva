@@ -34,10 +34,10 @@ My name is Carla and I'm a software developer at Viceri. You can find me on [![L
 
 ## :chart_with_upwards_trend: GitHub Stats 
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlaPaiva&show_icons=true&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaPaiva&layout=compact" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CarlaPaiva&show_icons=true&hide=issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaPaiva" />
+
 
 
 
