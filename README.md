@@ -34,6 +34,11 @@ My name is Carla and I'm a software developer at Viceri. You can find me on [![L
 
 ## :chart_with_upwards_trend: GitHub Stats 
 
-[![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlaPaiva)](https://github.com/carlapaiva/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlaPaiva&show_icons=true&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaPaiva&layout=compact" />
+</a>
 
 
