@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>
-
 ## :computer: About Me 
 
 My name is Carla and I'm a software developer at Viceri. You can find me on [![LinkedIn][1]][2]
