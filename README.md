@@ -1,6 +1,6 @@
 ## :computer: About Me 
 
-My name is Carla and I'm a software developer at Viceri. You can find me on [![LinkedIn][1]][2]
+My name is Carla and I'm a software developer at Cyncly. You can find me on [![LinkedIn][1]][2]
 
 [1]:https://i.stack.imgur.com/gVE0j.png
 [2]:https://www.linkedin.com/in/carla-paiva/
